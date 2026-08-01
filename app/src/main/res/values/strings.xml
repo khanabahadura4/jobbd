@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamBD</string>
+    <string name="site_url">https://exambd.net/</string>
+    <string name="feed_url">https://exambd.net/feed/</string>
+    <string name="notif_channel_id">exambd_new_post</string>
+    <string name="notif_channel_name">নতুন পোস্ট নোটিফিকেশন</string>
+    <string name="notif_channel_desc">ExamBD ওয়েবসাইটে নতুন পোস্ট আসলে জানিয়ে দেয়</string>
+</resources>
